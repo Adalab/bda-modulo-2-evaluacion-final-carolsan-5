@@ -89,6 +89,9 @@ Demostrar dominio del lenguaje SQL mediante consultas sobre la base de datos **S
 * MySQL Server
 * MySQL Workbench
 
+---
 
+## Notas finales
 
+Este repositorio refleja un enfoque práctico, estructurado y realista del trabajo con datos, desde su extracción hasta su análisis mediante SQL, y está diseñado como evidencia de aprendizaje y evaluación técnica.
 
